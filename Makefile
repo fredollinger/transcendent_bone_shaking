@@ -1,4 +1,4 @@
 all:
-	latex transcendent.tex
+	pdflatex transcendent.tex
 edit:
 	vim transcendent.tex
